@@ -1,5 +1,7 @@
 # CloudTask Churn Analysis 2022-2025
 
+The excel file can be dowload **[here](https://github.com/mhairolfahmi/CloudTask_Churn_Analysis/blob/main/Cloudtask%20projects%20Excel%20File.xlsx)**
+
 ## Business Context
 
 CloudTask is a Software as a Service company that delivers business metrics performance tracking for a variety of industries including finance, education, real estate and many others. Over the past four years, CloudTask has experienced slow revenue growth alongside a high rate of customer churn.
