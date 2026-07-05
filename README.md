@@ -21,23 +21,24 @@ This project aims to analyze customer churn trends and their impact on the compa
 * The gap between new and churned MRR has narrowed by an average of 18% annually.
 *Thus, this is a sign for CloudTask to implement new strategies, as churned MRR is projected to surpass new MRR by 2028.
 
-<img width="1300" height="647" alt="image" src="https://github.com/user-attachments/assets/4687be81-5837-4f42-892f-f68abf1564b9" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/87d92c5e-b936-4b8e-b5e3-4fc4aec79358" />
 
 ## Insight
 
-<img width="1312" height="727" alt="image" src="https://github.com/user-attachments/assets/656832aa-3a2d-426b-9c1d-b7d14dad5699" />
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/e8a71385-a2ea-4395-becb-08548d5cb40a" />
 
-### Churn rate trends overall
+### Churn rate trends overall:
 
 * Between 2022 and 2025, CloudTask lost 313 customers out of the 600 customers acquired, resulting in an overall churn rate of 52%. 
 * Monthly customer churn rose steadily, from an average of 3 customers per month in 2022 to 9 customers per month in 2025. 
 * CloudTask recorded two consecutive months, April and May 2025, where churned customers outnumbered the number of new customers.
 
-### Churned due to financial driven
+### Churned due to financial driven:
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/b4877142-b4a9-4e7b-bbcc-6bee7395a022" />
 
 * In the churn survey conducted,there were 53 responses citing budget cuts and 51 citing prices being too high, meaning 104 out of 313 churned customers were driven by financial reasons alone.
 * Based on customer behaviour analysis we found out 
-  * Approximately 75% of our customers are classified as moderate or low feature usage, with both groups recording an overall churn rate of 63% and 85%, respectively.
+  * Approximately 65% of our customers are classified as moderate or low feature usage, with both groups recording an overall churn rate of 63% and 85%, respectively.
   * Our Starter plan alone accounts for 70% of churned customers, with CloudTask losing an average of 3 customers per month from this plan.
   * Most of our customers pay for features they may not fully utilize the product features.
 *  Thus, this indicates that our Starter plan has failed to build customer loyalty toward CloudTask, which may be attributed to the following factors:
@@ -45,16 +46,17 @@ This project aims to analyze customer churn trends and their impact on the compa
    * The pricing does not offer reasonable value relative to the services provided.
    * Competitors offer better services at more affordable prices.
 
-<img width="1117" height="477" alt="image" src="https://github.com/user-attachments/assets/94f56dff-21b0-4991-a714-07aaddaac524" />
+<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/7b6dc137-8606-4149-a93c-752ac62abf4b" />
 
-### Churned due to poor services support
+### Churned due to poor services support:
 * Overall, during the period from 2022 to 2025, CloudTask received an annual NPS score range from 2.9 to 3.13.
 * Approximately 78% of CloudTask customers gave a low score (1–6), and 66% of these customers subsequently churned.
 * This low NPS score may be attributed to the following factors:
   * CloudTask received approximately 3,000 tickets in the past 12 months related to system issues.
   * Customers are dissatisfied with the slow resolution times from our customer support team.
 
-<img width="595" height="182" alt="image" src="https://github.com/user-attachments/assets/b357e9fb-d0c6-40ea-8032-8ec9440f496a" />
+<img width="500" height="152" alt="image" src="https://github.com/user-attachments/assets/579ae8f5-4f6a-4160-a80b-c3332ef4a69c" />
+
 
   
 ## Recomendation
