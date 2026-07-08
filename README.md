@@ -1,6 +1,13 @@
 # CloudTask Churn Analysis 2022-2025
 
+Dashboard related to revenue trends can be observe **[here](https://github.com/mhairolfahmi/CloudTask_Churn_Analysis/blob/main/CloudTask%20Dashboard%20MRR.png)**
+
+Dashboard related to churn trends can be observe **[here](https://github.com/mhairolfahmi/CloudTask_Churn_Analysis/blob/main/Cloudtask%20Dashboard%20Churned.png)**
+
 The excel file can be dowload **[here](https://github.com/mhairolfahmi/CloudTask_Churn_Analysis/blob/main/Cloudtask%20projects%20Excel%20File.xlsx)**
+
+The powerbi file can be dowload here **[here](https://github.com/mhairolfahmi/CloudTask_Churn_Analysis/blob/main/CloudTask%20PowerBi%20File)**
+
 
 ## Business Context
 
@@ -25,7 +32,7 @@ This project aims to analyze customer churn trends and their impact on the compa
 
 ## Insight
 
-<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/e8a71385-a2ea-4395-becb-08548d5cb40a" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/060ff21b-b8c2-42cc-8c75-d85dcae0ccbd" />
 
 ### Churn rate trends overall:
 
@@ -46,7 +53,7 @@ This project aims to analyze customer churn trends and their impact on the compa
    * The pricing does not offer reasonable value relative to the services provided.
    * Competitors offer better services at more affordable prices.
 
-<img width="700" height="300" alt="image" src="https://github.com/user-attachments/assets/7b6dc137-8606-4149-a93c-752ac62abf4b" />
+<img width="800" height="336" alt="image" src="https://github.com/user-attachments/assets/65ed3530-5e28-4a5f-afd2-16939ace2170" />
 
 ### Churned due to poor services support:
 * Overall, during the period from 2022 to 2025, CloudTask received an annual NPS score range from 2.9 to 3.13.
@@ -57,8 +64,6 @@ This project aims to analyze customer churn trends and their impact on the compa
 
 <img width="500" height="152" alt="image" src="https://github.com/user-attachments/assets/579ae8f5-4f6a-4160-a80b-c3332ef4a69c" />
 
-
-  
 ## Recomendation
 
 ### Review Pricing, Product Plan & Features Strategy
