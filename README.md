@@ -6,7 +6,7 @@ Dashboard related to churn trends can be observe **[here](https://github.com/mha
 
 The excel file can be dowload **[here](https://github.com/mhairolfahmi/CloudTask_Churn_Analysis/blob/main/Cloudtask%20projects%20Excel%20File.xlsx)**
 
-The powerbi file can be dowload here **[here](https://github.com/mhairolfahmi/CloudTask_Churn_Analysis/blob/main/CloudTask%20PowerBi%20File)**
+The powerbi file can be dowload here **[here](https://github.com/mhairolfahmi/CloudTask_Churn_Analysis/blob/main/CloudTask%20PowerBi)**
 
 
 ## Business Context
