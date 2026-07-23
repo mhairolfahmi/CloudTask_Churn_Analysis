@@ -21,7 +21,7 @@ This project aims to analyze customer churn trends and their impact on the compa
 * Cloudtask has lost a total of 313 customers between 2022 to 2025, more than half of the customers acquired during the same period.
 * This issue is causing the annual revenue losses to increase significantly, rising from $35K in 2022 to $122K in 2025.
 
-<img width="700" height="400" alt="Churn Analaysis Cloudatsk 2022-2025_page-0001" src="https://github.com/user-attachments/assets/f23600cb-9a5b-48bf-99a5-530ffccdba78" />
+<img width="800" height="400" alt="Churn Analaysis Cloudatsk 2022-2025_page-0001" src="https://github.com/user-attachments/assets/f23600cb-9a5b-48bf-99a5-530ffccdba78" />
 
 
 ## Churn Profile
@@ -34,7 +34,7 @@ This project aims to analyze customer churn trends and their impact on the compa
   *  However the average customer lifetime of annual billings is only 43 days longer compared to monthly.
   *  Therefore, the company's retention problem extends beyond billing frequency.
 
-<img width="700" height="400" alt="Churn Analaysis Cloudatsk 2022-2025_page-0002" src="https://github.com/user-attachments/assets/a97d41d1-6c07-416e-85b9-c30755886c65" />
+<img width="800" height="400" alt="Churn Analaysis Cloudatsk 2022-2025_page-0002" src="https://github.com/user-attachments/assets/a97d41d1-6c07-416e-85b9-c30755886c65" />
 
 ## Churned Reason
 
@@ -47,7 +47,7 @@ This project aims to analyze customer churn trends and their impact on the compa
   * This shows that dissatisfaction with product performance and/or customer support may contribute to customer attrition.
   * Therefore, it would be valuable to investigate the support tickets submitted by these customers over the past 12 months to identify the key issues contributing to dissatisfaction and churn.
 
-<img width="700" height="400" alt="Churn Analaysis Cloudatsk 2022-2025_page-0003" src="https://github.com/user-attachments/assets/f0cefd34-434c-4875-adac-750415da9fac" />
+<img width="800" height="400" alt="Churn Analaysis Cloudatsk 2022-2025_page-0003" src="https://github.com/user-attachments/assets/f0cefd34-434c-4875-adac-750415da9fac" />
 
 
 ## Recomendation
